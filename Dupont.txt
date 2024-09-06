@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hyyy
-Quelques informations sur vous
+
+=======
+Quelques informations sur vous, 
+
+>>>>>>> 8eb5b7a7d65c3b8b6da47a04a14c17c89cda4dfe
